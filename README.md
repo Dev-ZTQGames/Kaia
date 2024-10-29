@@ -1,5 +1,0 @@
-# Kaia test contracts
-
-##Kairos test net
-STA - KIP7 ( 0x7570b4e62070345ff8e5ef0c71f35c57714f2662 )
-STANFT - KIP17 ( 0x468078aC2E46412Ea8b690e8135008Ebd58fd4ab )
